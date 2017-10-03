@@ -8,4 +8,4 @@ cty = "0.1.5"
 static-ref = "0.1.0"
 
 [dependencies.photon-core]
-git = "https://github.com/japaric/photon-core"
+git = "https://github.com/rnestler/photon-core"
